@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tupsamundarsachin&show_icons=true&locale=en" alt="tupsamundarsachin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tupsamundarsachin&" alt="tupsamundarsachin" /></p>
+
 
 <!--
 **Tupsamundarsachin/Tupsamundarsachin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
